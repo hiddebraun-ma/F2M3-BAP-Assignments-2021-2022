@@ -19,7 +19,7 @@ Op deze website vind je elke week de opdrachten voor de les: [https://bit.ly/duu
 
 ### Nadat je de XAMPP webserver hebt geinstalleerd
 
-Als je de XAMPP webserver met PHP en MySQl hebt geinstalleerd verplaats je deze naar de XAMPP htdocs folder.
+Als je de XAMPP webserver met PHP en MySQl hebt geinstalleerd verplaats je deze repository folder naar de XAMPP htdocs folder.
 
 - Verplaats deze repository folder (de folder waarin deze README in staat) naar de `htdocs` folder van je XAMPP webserver.
 - Hernoem de map naar een korte makkelijker naam, bijvoorbeeld: `bap`.
